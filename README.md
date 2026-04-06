@@ -1,1 +1,2 @@
-# CodiumV1
+# CodiumV1: Integrated DSA & SQL Learning Ecosystem
+CodiumV1 is a full-stack educational platform designed to streamline the transition from theoretical data structures to practical code execution. Built with a decoupled architecture, the project leverages a Django REST Framework backend to serve as a high-performance data layer, while the React.js frontend provides a state-driven, interactive environment for students and administrators alike.
